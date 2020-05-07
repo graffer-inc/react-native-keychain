@@ -1,3 +1,8 @@
+<h1 align="center"><a href="https://github.com/oblador/react-native-keychain/issues/328">この問題</a>の回避のためにfork</h1>
+
+<p>Mockitoのエラーなのでこの問題自体は無視して問題ないと判断</p>
+<p>上記問題が解決されたらfork元を参照する</p>
+
 <h1 align="center">react-native-keychain</h1>
 
 <p align="center"><img
